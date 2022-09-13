@@ -1,0 +1,254 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: rgb(244, 244, 244);
+}
+
+h2 {
+  font-size: 42px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 20px;
+}
+p {
+  font-size: 14px;
+  line-height: 17px;
+}
+
+a {
+  text-decoration: none;
+  color: color;
+}
+
+.portada {
+  background-color: #2fbb9c;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.portada img {
+  margin-top: 50px;
+}
+
+.tituloPortada {
+  color: white;
+  font-weight: 400;
+  font-size: 24px;
+  margin: 50px 0px 50px 0px;
+  text-align: center;
+}
+
+.btnVerMasajistas {
+  display: flex;
+  background-color: #237261;
+  color: white;
+  padding: 20px 40px;
+  border-radius: 50px;
+  font-size: 18px;
+  align-items: center;
+  text-decoration: none;
+}
+
+.btnVerMasajistas:hover {
+  background-color: #fcd0f8;
+}
+
+.contenedor {
+  margin: 15px 15% 15px 15%;
+  border-radius: 12px;
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  border: solid 1px #2fbb9c;
+  height: 259px;
+  background-color: white;
+}
+
+.gridImgDestacada {
+  grid-row: 1/3;
+}
+
+.gridInfoDestacada {
+  height: 200px;
+  margin: 15px 15px 0px 3%;
+}
+
+.gridWA {
+  display: flex;
+  flex-direction: row-reverse;
+  height: 40px;
+}
+
+.btnWA {
+  display: flex;
+  background-color: #2fbb9c;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 12px 0px 12px 0px;
+  font-size: 14px;
+  align-items: center;
+  border: solid 1px #2fbb9c;
+}
+
+.btnWA:hover {
+  background-color: #237261;
+  border: solid 1px #237261;
+}
+
+.txtGreen {
+  color: #2fbb9c;
+}
+
+.gridImgDestacada img {
+  border-radius: 12px 0px 0px 12px;
+  width: 170px;
+}
+
+.gridWA img {
+  margin-right: 7px;
+}
+
+.descripcion {
+  margin-top: 5px;
+}
+
+.masContacto {
+  margin-top: 5px;
+  margin-bottom: 12px;
+}
+
+.tituloDestacadas {
+  text-align: center;
+  margin: 50px;
+}
+
+@media only screen and (min-width: 521px) and (max-width: 768px) {
+  .contenedor {
+    margin: 10px 3% 10px 3%;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (min-width: 321px) and (max-width: 520px) {
+  .contenedor {
+    margin: 15px 2% 15px 2%;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  h4 {
+    font-size: 16px;
+  }
+
+  p {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .contenedor {
+    grid-template-columns: 140px 1fr;
+    height: 213px;
+  }
+
+  .gridImgDestacada img {
+    width: 140px;
+  }
+
+  .btnWA {
+    padding: 5px 7px;
+    border-radius: 12px 0px 12px 0px;
+    font-size: 10px;
+  }
+
+  .descripcion {
+    margin-top: 2px;
+  }
+
+  .gridInfoDestacada {
+    height: 178px;
+    margin: 5px 5px 0px 3%;
+  }
+
+  .masContacto {
+    margin-top: 5px;
+    margin-bottom: 7px;
+  }
+
+  .tituloPortada {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 320px) {
+  .contenedor {
+    margin: 15px 2% 15px 2%;
+  }
+
+  h3 {
+    font-size: 16px;
+  }
+
+  h4 {
+    font-size: 14px;
+  }
+
+  p {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .tituloPortada {
+    font-size: 14px;
+  }
+  .contenedor {
+    grid-template-columns: 100px 1fr;
+    height: 152px;
+    border-radius: 8px;
+  }
+
+  .gridImgDestacada img {
+    width: 100px;
+    border-radius: 8px 0px 0px 8px;
+  }
+
+  .btnWA {
+    padding: 3px 5px;
+    border-radius: 8px 0px 8px 0px;
+    font-size: 9px;
+  }
+
+  .descripcion {
+    margin-top: 2px;
+  }
+
+  .gridInfoDestacada {
+    height: 122px;
+    margin: 5px 5px 0px 3%;
+  }
+
+  .masContacto {
+    margin-top: 2px;
+    margin-bottom: 5px;
+  }
+}
