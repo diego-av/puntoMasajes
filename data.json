@@ -1,6 +1,6 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "nombre": "SOL",
     "zona": "CABALLITO",
     "horario": "Lunes a sádados 9 a 20",
@@ -10,12 +10,13 @@
     "telefono": "11 3303-8353",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541133038353&text=Hola%20SOL,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/sol/sol-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 1,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "2",
+    "id": 2,
     "nombre": "ESTRELLA",
     "zona": "MICROCENTRO",
     "horario": "Lunes a sádados 9 a 20",
@@ -25,12 +26,13 @@
     "telefono": "11 6900-5210",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541169005210&text=Hola%20ESTRELLA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/estrella/estrella-punto-masajes-argentina-3-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 2,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "3",
+    "id": 3,
     "nombre": "MONICA",
     "zona": "PALERMO",
     "horario": "Lunes a sádados 9 a 20",
@@ -40,12 +42,13 @@
     "telefono": "11 4066-8679",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541140668679&text=Hola%MONICA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/monica/monica-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 3,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "4",
+    "id": 4,
     "nombre": "LAURA",
     "zona": "TRIBUNALES",
     "horario": "Lunes a sábado 10 a 20",
@@ -55,12 +58,13 @@
     "telefono": "11 6795-3440",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541167953440&text=Hola%20LAURA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/laura/laura-punto-masajes-argentina-7-193x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 4,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "5",
+    "id": 5,
     "nombre": "CANDE",
     "zona": "PALERMO",
     "horario": "Lunes a sábados de 14 a 20",
@@ -70,12 +74,13 @@
     "telefono": "11 2731-4346",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541127314346&text=Hola%20CANDE,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/cande/cande-10-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 5,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "6",
+    "id": 6,
     "nombre": "JOHANA",
     "zona": "BELGRANO",
     "horario": "Full time",
@@ -85,12 +90,13 @@
     "telefono": "11 2770-6453",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541127706453&text=Hola%20JOHANA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/johana/johana-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 6,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "7",
+    "id": 7,
     "nombre": "ABRIL",
     "zona": "PALERMO",
     "horario": "Lunes a sábados de 14 a 20",
@@ -100,12 +106,13 @@
     "telefono": "11 6242-1975",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541162421975&text=Hola%20ABRIL,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/abril/abril-punto-masajes-argentina-4-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 7,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "8",
+    "id": 8,
     "nombre": "ROMINA",
     "zona": "BARRIO NORTE",
     "horario": "Lunes a sábados 11 a 21",
@@ -115,12 +122,13 @@
     "telefono": "11 4979-1654",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541149791654&text=Hola%20ROMINA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/romina/romina-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 8,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "9",
+    "id": 9,
     "nombre": "MARIZA",
     "zona": "BELGRANO",
     "horario": "Lunes a sábados 12 a 20",
@@ -130,12 +138,13 @@
     "telefono": "11 3235-3114",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541132353114&text=Hola%20MARIZA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/marisa/marisa-punto-masajes-argentina-4-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 9,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "10",
+    "id": 10,
     "nombre": "ALE",
     "zona": "BELGRANO",
     "horario": "Lunes a sábados 13 a 20",
@@ -145,12 +154,13 @@
     "telefono": "11 4096-3004",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541140963004&text=Hola%20mALE,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/ale/alejandra-punto-masajes-argentina-1-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 10,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "11",
+    "id": 11,
     "nombre": "LUDMILA",
     "zona": "RECOLETA",
     "horario": "Lunes a viernes 11 a 19",
@@ -160,12 +170,13 @@
     "telefono": "11 6154-6886",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541161546886&text=Hola%20LUDMILA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/ludmila/ludmila-punto-masajes-argentina-3-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 11,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "12",
+    "id": 12,
     "nombre": "ELIANA",
     "zona": "VILLA CRESPO",
     "horario": "Lunes a sábados 9 a 16",
@@ -175,12 +186,13 @@
     "telefono": "11 2586-1528",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541125861528&text=Hola%20ELIANA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/eliana/eliana-punto-masajes-argentina-3-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 12,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "13",
+    "id": 13,
     "nombre": "GABRIELA",
     "zona": "COLEGIALES",
     "horario": "Lunes a sábados 13 a 21",
@@ -190,12 +202,13 @@
     "telefono": "11 3048-1072",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541130481072&text=Hola%20GABRIELA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/gabriela/gabriela-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 13,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "14",
+    "id": 14,
     "nombre": "KALU",
     "zona": "PALERMO",
     "horario": "Lunes a viernes 9 a 22 / sábados y domingos con turnos",
@@ -205,12 +218,13 @@
     "telefono": "11 2711-6874",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541127116874&text=Hola%20KALU,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/kalu/tete-punto-masajes-argentina-3-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 14,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "15",
+    "id": 15,
     "nombre": "BARBIE",
     "zona": "PALERMO",
     "horario": "Full time",
@@ -220,27 +234,29 @@
     "telefono": "11 3158-9844",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541131589844&text=Hola%20BARBIE,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/barbie/barbie-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 15,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "16",
-    "nombre": "ARTEMISA",
+    "id": 16,
+    "nombre": "ROSITA",
     "zona": "PALERMO",
     "horario": "Lunes a viernes 10 a 19",
     "pago": "Efectivo y Mercadopago",
     "titular": "Masajes relajantes",
     "descripcion": "Masajes relajantes descontracturantes de los pies a la cervical.",
     "telefono": "11 6127-0850",
-    "btWhatsapp": "https://api.whatsapp.com/send?phone=541161270850&text=Hola%20ARTEMISA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
-    "img": "./img/masajistas/artemisa/artemisa-punto-masajes-argentina-3-198x300.webp",
-    "destacada": "true",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541161270850&text=Hola%20ROSITA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
+    "img": "./img/masajistas/rosita/rosita-punto-masajes-argentina-2-198x300.webp",
+    "destacada": true,
+    "posicion": 16,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "17",
+    "id": 17,
     "nombre": "RAQUEL",
     "zona": "VILLA CRESPO",
     "horario": "Lunes a sábados 10 a 19",
@@ -250,12 +266,13 @@
     "telefono": "11 2641-0445",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541126410445&text=Hola%20RAQUEL,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/raquel/raquel-punto-masajes-argentina-3-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 17,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "18",
+    "id": 18,
     "nombre": "VIOLETA",
     "zona": "TRIBUNALES",
     "horario": "Lunes a sábados 10 a 19",
@@ -265,12 +282,13 @@
     "telefono": "11 6487-0037",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541164870037&text=Hola%20NOEMI,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/violeta/violeta-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 18,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "19",
+    "id": 19,
     "nombre": "ALISON",
     "zona": "PALERMO",
     "horario": "Lunes a sábados de 10 a 20",
@@ -280,12 +298,13 @@
     "telefono": "11 3695-4892",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541136954892&text=Hola%20ALISON,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/alison/alison-punto-masajes-argentina-3-1-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 19,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "20",
+    "id": 20,
     "nombre": "LARA",
     "zona": "TRIBUNALES",
     "horario": "Lunes, domingos y feriados 10 a 20",
@@ -295,12 +314,13 @@
     "telefono": "11 5143-6642",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541151436642&text=Hola%20LARA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/lara/lara-punto-masajes-argentina-3-1-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 20,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "21",
+    "id": 21,
     "nombre": "MARIAN",
     "zona": "MICROCENTRO",
     "horario": "Lunes a viernes de 10 a 20 y sábados de 11 a 18",
@@ -310,12 +330,13 @@
     "telefono": "11 2500-0455",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541125000455&text=Hola%20MARIAN,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/marian/marian-punto-masajes-argentina-3-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 21,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "22",
+    "id": 22,
     "nombre": "BRIANA",
     "zona": "RECOLETA",
     "horario": "Lunes a domingos 10 a 19",
@@ -325,12 +346,13 @@
     "telefono": "11 3145-4965",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541131454965&text=Hola%20BRIANA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/briana/briana-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 22,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "23",
+    "id": 23,
     "nombre": "PATRICIA",
     "zona": "TRIBUNALES",
     "horario": "Lunes a sábados de 11 a 19",
@@ -340,12 +362,13 @@
     "telefono": "11 2733-8975",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541127338975&text=Hola%20PATRICIA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/patricia/patricia-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 23,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "24",
+    "id": 24,
     "nombre": "SOFIA",
     "zona": "MICROCENTRO",
     "horario": "Lunes a sábado 11 a 19",
@@ -355,27 +378,13 @@
     "telefono": "11 6217-7502",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541162177502&text=Hola%20SOFIA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/sofia/punto-masajes-sofia-2-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 24,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "25",
-    "nombre": "VERO",
-    "zona": "MICROCENTRO",
-    "horario": "Lunes a sábado 10 a 20",
-    "pago": "Efectivo y Mercadopago",
-    "titular": "Masajista Profesional",
-    "descripcion": "Masajes integral de cuerpo entero con varias técnicas en un ambiente tranquilo , climatizado muy moderno y cómodo. Trabajo sobre camilla o Tatami.Servicio de ducha. Privacidad absoluta.",
-    "telefono": "11 4477-8606",
-    "btWhatsapp": "https://api.whatsapp.com/send?phone=541144778606&text=Hola%20VERO%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
-    "img": "./img/masajistas/vero/vero-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
-    "tag": "",
-    "activado": "true"
-  },
-  {
-    "id": "26",
+    "id": 25,
     "nombre": "PAULA",
     "zona": "GARIN",
     "horario": "Lunes a viernes 11 a 18",
@@ -385,12 +394,30 @@
     "telefono": "11 3477-7793",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541134777793&text=Hola%20PAULA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/paula/ana-laura-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": true,
+    "posicion": 25,
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "27",
+    "id": 26,
+    "nombre": "VERO",
+    "zona": "MICROCENTRO",
+    "horario": "Lunes a sábado 10 a 20",
+    "pago": "Efectivo y Mercadopago",
+    "titular": "Masajista Profesional",
+    "descripcion": "Masajes integral de cuerpo entero con varias técnicas en un ambiente tranquilo , climatizado muy moderno y cómodo. Trabajo sobre camilla o Tatami.Servicio de ducha. Privacidad absoluta.",
+    "telefono": "11 4477-8606",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541144778606&text=Hola%20VERO%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
+    "img": "./img/masajistas/vero/vero-punto-masajes-argentina-198x300.webp",
+    "destacada": "false",
+    "posicion": "",
+    "tag": "",
+    "activado": true
+  },
+
+  {
+    "id": 27,
     "nombre": "DAIANA",
     "zona": "CONGRESO",
     "horario": "Lunes a viernes 11 a 17",
@@ -400,12 +427,13 @@
     "telefono": "11 2833-6272",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541128336272&text=Hola%20DAIANA%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/daiana/daiana-punto-masajes-argentina-1-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "28",
+    "id": 28,
     "nombre": "MARIELA",
     "zona": "MICROCENTRO",
     "horario": "Lunes a domingos 10 a 21",
@@ -415,12 +443,13 @@
     "telefono": "11 4946-1581",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541149461581&text=Hola%20MARIELA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/mariela/mariela-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "29",
+    "id": 29,
     "nombre": "YANINA",
     "zona": "MICROCENTRO",
     "horario": "Lunes a sábados 12 a 20",
@@ -430,12 +459,13 @@
     "telefono": "11 3367-9535",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541133679535&text=Hola%20YANINA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/yanina/yanina-punto-masajes-argentina--198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "30",
+    "id": 30,
     "nombre": "YANA",
     "zona": "MICROCENTRO",
     "horario": "Lunes a viernes 11 a 20",
@@ -445,12 +475,13 @@
     "telefono": "11 6837-7676",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541168377676&text=Hola%20YANA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/yana/daniela-punto-masajes-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "31",
+    "id": 31,
     "nombre": "AGUSTINA",
     "zona": "CABALLITO",
     "horario": "Lunes a sábados 11 a 18",
@@ -460,12 +491,13 @@
     "telefono": "11 4980-9485",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541149809485&text=Hola%20AGUS,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/agus/agus-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "32",
+    "id": 32,
     "nombre": "FLORENCIA",
     "zona": "BELGRANO",
     "horario": "Lunes a viernes 8:30 a 21",
@@ -475,12 +507,13 @@
     "telefono": "11 2465-3691",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541124653691&text=Hola%20FLORENCIA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/florencia/florencia-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "33",
+    "id": 33,
     "nombre": "EMMA",
     "zona": "BELGRANO",
     "horario": "Lunes a sábados 10 a 19",
@@ -490,12 +523,13 @@
     "telefono": "11 7607-3209",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541176073209&text=Hola%20EMMA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/emma/emma-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "34",
+    "id": 34,
     "nombre": "MARIELA",
     "zona": "PALERMO",
     "horario": "Lunes a viernes 11 a 19",
@@ -505,12 +539,13 @@
     "telefono": "11 6826-2683",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541168262683&text=Hola%20PALERMO,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/mariela-2/mariela-punto-masajes-argentina-2-1-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "35",
+    "id": 35,
     "nombre": "ROSA",
     "zona": "ITUZAINGO",
     "horario": "Lunes a viernes 10 a 19",
@@ -520,12 +555,13 @@
     "telefono": "11 5846-2883",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541158462883&text=Hola%20ROSA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/rosa/rosa-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "36",
+    "id": 36,
     "nombre": "NATHALY",
     "zona": "CABALLITO",
     "horario": "Lunes a sábados 12 a 19",
@@ -535,12 +571,13 @@
     "telefono": "11 6378-3915",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541163783915&text=Hola%20NATHALY,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/nathaly/nathaly-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "37",
+    "id": 37,
     "nombre": "MICAELA",
     "zona": "VILLA DEVOTO",
     "horario": "Lunes a sábados 11 a 20",
@@ -550,12 +587,13 @@
     "telefono": "11 7132-4074",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541171324074&text=Hola%20SOLEDAD,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/micaela/micaela-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "38",
+    "id": 38,
     "nombre": "SOLEDAD",
     "zona": "PATERNAL",
     "horario": "Lunes a viernes 11 a 20",
@@ -565,12 +603,13 @@
     "telefono": "11 5794-2067",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541157942067&text=Hola%20SOLEDAD,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/soledad/soledad-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "39",
+    "id": 39,
     "nombre": "BELEN",
     "zona": "BELGRANO",
     "horario": "Lunes a sábados 13 a 20:30",
@@ -580,12 +619,13 @@
     "telefono": "11 3072-4010",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541130724010&text=Hola%20BELEN,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/belen/belen-punto-masajes-argentina-1-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "40",
+    "id": 40,
     "nombre": "LARA",
     "zona": "CABALLITO",
     "horario": "Lunes a sábados 11 a 19",
@@ -595,12 +635,13 @@
     "telefono": "11 4157-4154",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541141574154&text=Hola%20mLARA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/lara-2/lara-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "41",
+    "id": 41,
     "nombre": "FERNANDA",
     "zona": "RECOLETA",
     "horario": "Lunes a domingos 8 a 22",
@@ -610,12 +651,13 @@
     "telefono": "11 2294-3358",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541122943358&text=Hola%20FERNANDA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/fernanda/fernanda-punto-masajes-argentina-1-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "42",
+    "id": 42,
     "nombre": "NAHIR",
     "zona": "BELGRANO",
     "horario": "Lunes a sábados 11 a 19",
@@ -625,12 +667,13 @@
     "telefono": "11 3903-1445",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541139031445&text=Hola%20NAHIR,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     "img": "./img/masajistas/nahir/nahir-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "43",
+    "id": 43,
     "nombre": "DANIELA",
     "zona": "PALERMO",
     "horario": "Lunes a sábados 10 a 20",
@@ -640,12 +683,13 @@
     "telefono": "11 4477-5106",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541144775106&text=Hola%20DANIELA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/daniela/daniela-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "44",
+    "id": 44,
     "nombre": "MARIA",
     "zona": "CONGRESO",
     "horario": "Lunes a domingos 12 a 20",
@@ -655,12 +699,13 @@
     "telefono": "11 5403-4669",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541154034669&text=Hola%20MARIA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/maria/maria-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "45",
+    "id": 45,
     "nombre": "LAURA",
     "zona": "BELGRANO",
     "horario": "Lunes a viernes 9 a 19",
@@ -670,12 +715,13 @@
     "telefono": "11 6137-2821",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541161372821&text=Hola%20LAURA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/laura-2/laura-punto-masajes-argentina-1-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "46",
+    "id": 46,
     "nombre": "IVANNA",
     "zona": "CABALLITO",
     "horario": "Lunes a sábados 10 a 20",
@@ -685,12 +731,13 @@
     "telefono": "11 3820-8469",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541138208469&text=Hola%20IVANNA,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/ivanna/ivanna-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "47",
+    "id": 47,
     "nombre": "CARMEN",
     "zona": "MICROCENTRO",
     "horario": "Lunes a domingos 8 a 21",
@@ -700,12 +747,13 @@
     "telefono": "11 4429-0093",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541144290093&text=Hola%20CARMEN,%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/carmen/carmen-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "48",
+    "id": 48,
     "nombre": "VIRGINIA",
     "zona": "MICROCENTRO",
     "horario": "Lunes a sábados 12 a 20",
@@ -715,12 +763,13 @@
     "telefono": "11 2608-6936",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541126086936&text=Hola%20VIRGINIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/virginia/virginia-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "49",
+    "id": 49,
     "nombre": "ANGELA",
     "zona": "MUNRO",
     "horario": "Lunes a sábados 10 a 19",
@@ -730,12 +779,13 @@
     "telefono": "11 6846-9689",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541168469689&text=Hola%20ANGELA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/angela/angela-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "50",
+    "id": 50,
     "nombre": "LESLIE",
     "zona": "BELGRANO",
     "horario": "Lunes a sábados 8 a 19",
@@ -745,12 +795,13 @@
     "telefono": "11 5178-8475",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541151788475&text=Hola%20LESLIE%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/leslie/leslie-punto-masajes-argentina-1-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "51",
+    "id": 51,
     "nombre": "KARELYS",
     "zona": "CABALLITO",
     "horario": "Lunes a domingos 8 a 21",
@@ -760,12 +811,13 @@
     "telefono": "11 5727-7434",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541157277434&text=Hola%20KARELYS%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/karelys/karelys-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "52",
+    "id": 52,
     "nombre": "MONICA",
     "zona": "MONTSERRAT",
     "horario": "Lunes a viernes 10 a 20",
@@ -775,12 +827,13 @@
     "telefono": "11 3926-4543",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541139264543&text=Hola%20MONICA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/monica-2/monica-punto-masajes-argentina-1-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "53",
+    "id": 53,
     "nombre": "ALICIA",
     "zona": "MICROCENTRO",
     "horario": "Lunes a viernes 11 a 20",
@@ -790,12 +843,13 @@
     "telefono": "11 2237-0406",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541122370406&text=Hola%20ALICIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/alicia/alicia-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "54",
+    "id": 54,
     "nombre": "DANIELA",
     "zona": "BELGRANO",
     "horario": "Lunes a sábados 12 a 19",
@@ -805,12 +859,13 @@
     "telefono": "11 2863-1226",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541128631226&text=Hola%20DANIELA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/daniela-2/daniela-punto-masajes-argentina-2-4-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "55",
+    "id": 55,
     "nombre": "CAROLINA",
     "zona": "BELGRANO",
     "horario": "Lunes a viernes 10 a 19",
@@ -820,12 +875,13 @@
     "telefono": "11 2601-1930",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541126011930&text=Hola%20CAROLINA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/carolina/carolina-punto-masajes-argentina-2-2-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "56",
+    "id": 56,
     "nombre": "MARIEL",
     "zona": "CABALLITO",
     "horario": "Lunes a domingos 11 a 20",
@@ -835,12 +891,13 @@
     "telefono": "11 6877-3522",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541168773522&text=Hola%20MARIEL%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/mariel/mariel-2-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "57",
+    "id": 57,
     "nombre": "JENIFER",
     "zona": "CABALLITO",
     "horario": "Lunes a sábados 11 a 19",
@@ -850,12 +907,13 @@
     "telefono": "11 2620-6385",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541126206385&text=Hola%20JENNIFER%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/jennifer/jennifer-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "58",
+    "id": 58,
     "nombre": "PAOLA",
     "zona": "PARQUE CHACABUCO",
     "horario": "Lunes a domingos 10 a 21",
@@ -865,12 +923,13 @@
     "telefono": "11 6892-7019",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541168927019&text=Hola%20PAOLA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/paola/paola-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "59",
+    "id": 59,
     "nombre": "VERONICA",
     "zona": "MARTINEZ",
     "horario": "Martes a viernes 13 a 20",
@@ -880,12 +939,13 @@
     "telefono": "11 3849-4947",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541138494947&text=Hola%20VERONICA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/veronica/veronica-punto-masajes-argentina-2-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "60",
+    "id": 60,
     "nombre": "LUISA",
     "zona": "MUNRO",
     "horario": "Lunes a sábados 10 a 19",
@@ -895,12 +955,13 @@
     "telefono": "11 5178-5954",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541151785954&text=Hola%20LUISA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/luisa/luisa-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "61",
+    "id": 61,
     "nombre": "FLAVIA",
     "zona": "TRIBUNALES",
     "horario": "Lunes a viernes 13 a 20",
@@ -910,12 +971,13 @@
     "telefono": "11 5568-8034",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541155688034&text=Hola%20FLAVIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/flavia/flavia-punto-masajes-argentina-2-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "62",
+    "id": 62,
     "nombre": "EUGENIA",
     "zona": "CONGRESO",
     "horario": "Lunes a sábados 11 a 19",
@@ -925,12 +987,13 @@
     "telefono": "11 2580-6165",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541125806165&text=Hola%20EUGENIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/eugenia/eugenia-punto-masajes-argentina-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "63",
+    "id": 63,
     "nombre": "MARIELA",
     "zona": "VILLA CRESPO",
     "horario": "Lunes a viernes 11 a 21",
@@ -940,12 +1003,13 @@
     "telefono": "11 5574-2574",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541155742574&text=Hola%20MARIELA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/mariela-3/mariela-punto-masajes-argentina-7-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "64",
+    "id": 64,
     "nombre": "MARIA",
     "zona": "TRIBUNALES",
     "horario": "Lunes a viernes 10 a 19",
@@ -955,12 +1019,13 @@
     "telefono": "11 6947-5764",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541169475764&text=Hola%20MARIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/maria-2/maria-punto-masajes-argentina-3-2-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
   },
   {
-    "id": "65",
+    "id": 65,
     "nombre": "MARIA",
     "zona": "TRIBUNALES",
     "horario": "Lunes a sábados 9 a 21",
@@ -970,8 +1035,105 @@
     "telefono": "11 6727-9483",
     "btWhatsapp": "https://api.whatsapp.com/send?phone=541167279483&text=Hola%20MARIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     "img": "./img/masajistas/maria-3/maria-punto-masajes-argentina-2-3-198x300.webp",
-    "destacada": "true",
+    "destacada": "false",
+    "posicion": "",
     "tag": "",
-    "activado": "true"
+    "activado": true
+  },
+  {
+    "id": 66,
+    "nombre": "ROMINA",
+    "zona": "BALLESTER",
+    "horario": "Lunes a viernes 9 a 19",
+    "pago": "Solo Efectivo",
+    "titular": "Masajista profesional",
+    "descripcion": "Masajes descontracturantes relajantes y sedativos, tratamientos segun tu dolencia.",
+    "telefono": "11 6135-5206",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541161355206&text=Hola%20ROMINA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    "img": "./img/masajistas/romina-2/romina-punto-masajes-argentina.webp",
+    "destacada": "false",
+    "posicion": "",
+    "tag": "",
+    "activado": true
+  },
+  {
+    "id": 67,
+    "nombre": "ARIANA",
+    "zona": "TRIBUNALES",
+    "horario": "Lunes a sábados 10 a 20",
+    "pago": "Efectivo y Mercadopago",
+    "titular": "Masajes Terapéuticos",
+    "descripcion": "Soy masajista matriculada. Te brindo masajes terapéuticos, descontracturantes, relajantes y deportivos. Masaje Integral. Atiendo en mi consultorio, total privacidad. Reservá tu turno.",
+    "telefono": "11 4057-8235",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541140578235&text=Hola%20ARIANA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    "img": "./img/masajistas/ariana/ariana-punto-masajes-argentina.webp",
+    "destacada": "false",
+    "posicion": "",
+    "tag": "",
+    "activado": true
+  },
+  {
+    "id": 68,
+    "nombre": "FRANCISMAR",
+    "zona": "CONGRESO",
+    "horario": "Lunes a sábados 11:30 a 20",
+    "pago": "Solo Efectivo",
+    "titular": "Masajes relajantes",
+    "descripcion": "Masajes super lindos relajantes, sedativos o relajantes de pies a cervical.",
+    "telefono": "11 6573-0173",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541165730173&text=Hola%20FRANCISMAR%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    "img": "./img/masajistas/francismar/francismar-punto-masajes-argentina-2.webp",
+    "destacada": "false",
+    "posicion": "",
+    "tag": "",
+    "activado": true
+  },
+  {
+    "id": 69,
+    "nombre": "LIZ",
+    "zona": "MONTSERRAT",
+    "horario": "Lunes a sábados 13 a 19",
+    "pago": "Efectivo y Mercadopago",
+    "titular": "Masajes reales",
+    "descripcion": "Mis masajes son descontracturantes, relajantes y sensitivos, cuerpo completo, sobre camilla 1 hora o media hora.",
+    "telefono": "11 6627-1773",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541166271773&text=Hola%20LIZ%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    "img": "./img/masajistas/liz/liz-punto-masajes-argentina.webp",
+    "destacada": "false",
+    "posicion": "",
+    "tag": "",
+    "activado": true
+  },
+  {
+    "id": 70,
+    "nombre": "CAMI",
+    "zona": "TRIBUNALES",
+    "horario": "Lunes a domingos 11 a 20",
+    "pago": "Efectivo y Mercadopago",
+    "titular": "Masajista",
+    "descripcion": "Realizo sobre camilla o tatami japonés. Son masajes relajantes, descontracturantes, sedativos ambos lados de el cuerpo, me manejo con reserva de turno.",
+    "telefono": "11 2519-5514",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541125195514&text=Hola%20CAMI%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    "img": "./img/masajistas/cami/cami-punto-masajes-argentina-2.webp",
+    "destacada": "false",
+    "posicion": "",
+    "tag": "",
+    "activado": true
+  },
+  {
+    "id": 71,
+    "nombre": "ANALIA",
+    "zona": "TRIBUNALES",
+    "horario": "Full time",
+    "pago": "Efectivo y Mercadopago",
+    "titular": "Masajista",
+    "descripcion": "Soy Analia Masajistas Auxiliar de Kinesiologia Profesional y Matriculada,  masajes terapéuticos sobre camilla en cuerpo entero con cremas, musculares y cervicales.",
+    "telefono": "11 3207-4490",
+    "btWhatsapp": "https://api.whatsapp.com/send?phone=541132074490&text=Hola%20ANALIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    "img": "./img/masajistas/analia/analia-punto-masajes-argentina.webp",
+    "destacada": "false",
+    "posicion": "",
+    "tag": "",
+    "activado": true
   }
 ]

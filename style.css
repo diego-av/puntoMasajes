@@ -33,6 +33,29 @@ a {
   text-decoration: none;
 }
 
+.bannerPunto {
+  background-color: #2fbb9c;
+  padding: 30px 5px 30px 5px;
+  margin: 50px 0px 50px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.bannerPunto h2 {
+  color: white;
+  font-size: 36px;
+}
+
+.bannerPunto p {
+  color: white;
+  padding: 8px 0px 25px 0px;
+  font-size: 18px;
+  line-height: 21px;
+}
+
 .publicar {
   height: 50px;
   background-color: #791ebf;
@@ -270,5 +293,10 @@ footer p {
   .masContacto {
     margin-top: 2px;
     margin-bottom: 5px;
+  }
+
+  .bannerPunto h2 {
+    color: white;
+    font-size: 24px;
   }
 }
