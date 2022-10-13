@@ -1,0 +1,49 @@
+.window-notice {
+  background: rgba(33, 41, 52, 0.85);
+  left: 0;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  display: flex;
+  position: fixed;
+  z-index: 999;
+  overflow: scroll;
+}
+
+.window-notice .content {
+  background: #fff;
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(33, 41, 52, 0.75);
+  box-sizing: content-box;
+  display: flex;
+  margin: auto;
+  max-width: 600px;
+  min-width: 300px !important;
+  overflow: hidden;
+  position: relative;
+  width: 200px;
+  padding: 2rem;
+  font-size: 15px;
+}
+
+.window-notice .content img {
+  width: 198px;
+}
+
+.content-buttons {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.content-buttons a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 1rem;
+  background-color: #0080de;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.content-buttons a:hover {
+  background-color: #006ab8;
+}

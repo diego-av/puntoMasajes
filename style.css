@@ -33,29 +33,6 @@ a {
   text-decoration: none;
 }
 
-.bannerPunto {
-  background-color: #2fbb9c;
-  padding: 30px 5px 30px 5px;
-  margin: 50px 0px 50px 0px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
-.bannerPunto h2 {
-  color: white;
-  font-size: 36px;
-}
-
-.bannerPunto p {
-  color: white;
-  padding: 8px 0px 25px 0px;
-  font-size: 18px;
-  line-height: 21px;
-}
-
 .publicar {
   height: 50px;
   background-color: #791ebf;
@@ -123,12 +100,22 @@ footer p {
   background-color: white;
 }
 
+.contenedor2 {
+  margin: 15px 15% 15px 15%;
+  border-radius: 12px;
+  display: grid;
+  grid-template-columns: 1fr;
+  border: solid 1px #2fbb9c;
+  height: 259px;
+  background-color: white;
+}
+
 .gridImgDestacada {
   grid-row: 1/3;
 }
 
 .gridInfoDestacada {
-  height: 200px;
+  height: 190px;
   margin: 15px 15px 0px 3%;
 }
 
@@ -143,14 +130,34 @@ footer p {
   background-color: #2fbb9c;
   color: white;
   padding: 10px 20px;
-  border-radius: 12px 0px 12px 0px;
+  border-radius: 8px;
   font-size: 14px;
   align-items: center;
   border: solid 1px #2fbb9c;
+  margin-right: 5px;
 }
 
 .btnWA:hover {
   background-color: #237261;
+  border: solid 1px #237261;
+}
+
+.btnPhotos {
+  display: flex;
+  background-color: white;
+  color: #2fbb9c;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  align-items: center;
+  border: solid 1px #2fbb9c;
+  margin-right: 15px;
+  font-weight: 500;
+}
+
+.btnPhotos:hover {
+  background-color: #237261;
+  color: white;
   border: solid 1px #237261;
 }
 
@@ -196,6 +203,10 @@ footer p {
     margin: 15px 2% 15px 2%;
   }
 
+  h2 {
+    font-size: 30px;
+  }
+
   h3 {
     font-size: 18px;
   }
@@ -214,14 +225,25 @@ footer p {
     height: 213px;
   }
 
+  .contenedor2 {
+    height: 213px;
+  }
+
   .gridImgDestacada img {
     width: 140px;
   }
 
   .btnWA {
     padding: 5px 7px;
-    border-radius: 12px 0px 12px 0px;
     font-size: 10px;
+    margin-right: 3px;
+  }
+
+  .btnPhotos {
+    padding: 7.5px 12px;
+    font-size: 10px;
+    font-weight: 500;
+    margin-right: 10px;
   }
 
   .descripcion {
@@ -229,7 +251,7 @@ footer p {
   }
 
   .gridInfoDestacada {
-    height: 178px;
+    height: 175px;
     margin: 5px 5px 0px 3%;
   }
 
@@ -246,6 +268,10 @@ footer p {
 @media only screen and (min-width: 100px) and (max-width: 320px) {
   .contenedor {
     margin: 15px 2% 15px 2%;
+  }
+
+  h2 {
+    font-size: 30px;
   }
 
   h3 {
@@ -277,8 +303,13 @@ footer p {
 
   .btnWA {
     padding: 3px 5px;
-    border-radius: 8px 0px 8px 0px;
     font-size: 9px;
+  }
+
+  .btnPhotos {
+    padding: 6px 12px;
+    font-size: 9px;
+    margin-right: 5px;
   }
 
   .descripcion {
@@ -293,10 +324,5 @@ footer p {
   .masContacto {
     margin-top: 2px;
     margin-bottom: 5px;
-  }
-
-  .bannerPunto h2 {
-    color: white;
-    font-size: 24px;
   }
 }
