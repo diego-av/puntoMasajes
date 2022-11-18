@@ -33,15 +33,6 @@ a {
   text-decoration: none;
 }
 
-.publicar {
-  height: 50px;
-  background-color: #791ebf;
-  text-align: center;
-  padding-top: 15px;
-  color: white;
-  font-size: 16px;
-}
-
 footer {
   height: 50px;
   background-color: #2fbb9c;
@@ -52,6 +43,32 @@ footer p {
   color: white;
   text-align: center;
   font-size: 14px;
+}
+
+.topBar {
+  height: 50px;
+  background-color: #791ebf;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.txtWA {
+  font-size: 14px;
+  color: white;
+}
+
+.txtWA:hover {
+  color: pink;
+}
+
+.divPublica {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.divPublica div {
+  margin: 10px;
 }
 
 .portada {
@@ -75,9 +92,25 @@ footer p {
   text-align: center;
 }
 
+.btnPublicaGratis {
+  display: flex;
+  color: white;
+  background-color: #2fbb9c;
+  padding: 18px 40px;
+  border-radius: 50px;
+  border: solid 1px white;
+  font-size: 18px;
+  align-items: center;
+  text-decoration: none;
+}
+
+.btnPublicaGratis:hover {
+  background-color: #339882;
+}
+
 .btnVerMasajistas {
   display: flex;
-  background-color: #237261;
+  background-color: #791ebf;
   color: white;
   padding: 20px 40px;
   border-radius: 50px;
@@ -87,7 +120,7 @@ footer p {
 }
 
 .btnVerMasajistas:hover {
-  background-color: #fcd0f8;
+  background-color: #5d1e8d;
 }
 
 .contenedor {
@@ -96,17 +129,7 @@ footer p {
   display: grid;
   grid-template-columns: 170px 1fr;
   border: solid 1px #2fbb9c;
-  height: 259px;
-  background-color: white;
-}
-
-.contenedor2 {
-  margin: 15px 15% 15px 15%;
-  border-radius: 12px;
-  display: grid;
-  grid-template-columns: 1fr;
-  border: solid 1px #2fbb9c;
-  height: 259px;
+  height: 260px;
   background-color: white;
 }
 
@@ -188,6 +211,21 @@ footer p {
   margin: 50px;
 }
 
+.contenedorFree {
+  margin: 15px 15% 15px 15%;
+  border-radius: 12px;
+  display: grid;
+  grid-template-columns: 1fr;
+  border: solid 1px #2fbb9c;
+  height: 210px;
+  background-color: white;
+}
+
+.gridInfoDestacadaFree {
+  height: 146px;
+  margin: 15px 15px 0px 3%;
+}
+
 @media only screen and (min-width: 521px) and (max-width: 768px) {
   .contenedor {
     margin: 10px 3% 10px 3%;
@@ -196,11 +234,17 @@ footer p {
   h3 {
     font-size: 24px;
   }
+
+  .contenedorFree {
+    margin: 10px 3% 10px 3%;
+  }
 }
 
 @media only screen and (min-width: 321px) and (max-width: 520px) {
   .contenedor {
     margin: 15px 2% 15px 2%;
+    grid-template-columns: 140px 1fr;
+    height: 214px;
   }
 
   h2 {
@@ -220,13 +264,8 @@ footer p {
     line-height: 14px;
   }
 
-  .contenedor {
-    grid-template-columns: 140px 1fr;
-    height: 213px;
-  }
-
-  .contenedor2 {
-    height: 213px;
+  .tituloDestacadas {
+    margin: 5px;
   }
 
   .gridImgDestacada img {
@@ -235,13 +274,13 @@ footer p {
 
   .btnWA {
     padding: 5px 7px;
-    font-size: 10px;
+    font-size: 12px;
     margin-right: 3px;
   }
 
   .btnPhotos {
-    padding: 7.5px 12px;
-    font-size: 10px;
+    padding: 6.3px 12px;
+    font-size: 12px;
     font-weight: 500;
     margin-right: 10px;
   }
@@ -263,11 +302,23 @@ footer p {
   .tituloPortada {
     font-size: 20px;
   }
+
+  .contenedorFree {
+    margin: 15px 2% 15px 2%;
+    height: 180px;
+  }
+
+  .gridInfoDestacadaFree {
+    height: 132px;
+  }
 }
 
 @media only screen and (min-width: 100px) and (max-width: 320px) {
   .contenedor {
     margin: 15px 2% 15px 2%;
+    grid-template-columns: 100px 1fr;
+    height: 153px;
+    border-radius: 8px;
   }
 
   h2 {
@@ -289,11 +340,6 @@ footer p {
 
   .tituloPortada {
     font-size: 14px;
-  }
-  .contenedor {
-    grid-template-columns: 100px 1fr;
-    height: 152px;
-    border-radius: 8px;
   }
 
   .gridImgDestacada img {
@@ -324,5 +370,16 @@ footer p {
   .masContacto {
     margin-top: 2px;
     margin-bottom: 5px;
+  }
+
+  .contenedorFree {
+    margin: 15px 2% 15px 2%;
+    height: 152px;
+    border-radius: 8px;
+  }
+
+  .gridInfoDestacadaFree {
+    height: 122px;
+    margin: 5px 5px 0px 3%;
   }
 }

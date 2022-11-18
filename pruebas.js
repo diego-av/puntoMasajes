@@ -53,8 +53,8 @@ const productos = [
     telefono: "11 4066-8679",
     btWhatsapp:
       "https://api.whatsapp.com/send?phone=541140668679&text=Hola%MONICA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
-    img: "./img/masajistas/monica/monica-punto-masajes-argentina-198x300.webp",
-    img2: "",
+    img: "./img/masajistas/monica/monica-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/monica/monica-punto-masajes-argentina-198x300.webp",
     img3: "",
     img4: "",
     destacada: true,
@@ -137,10 +137,10 @@ const productos = [
     telefono: "11 6242-1975",
     btWhatsapp:
       "https://api.whatsapp.com/send?phone=541162421975&text=Hola%20ABRIL,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
-    img: "./img/masajistas/abril/abril-punto-masajes-argentina-4-198x300.webp",
-    img2: "./img/masajistas/abril/abril-punto-masajes-argentina-198x300.webp",
-    img3: "./img/masajistas/abril/abril-punto-masajes-argentina-2-198x300.webp",
-    img4: "./img/masajistas/abril/abril-punto-masajes-argentina-3-1-198x300.webp",
+    img: "./img/masajistas/abril/abril-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/abril/abril-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/abril/abril-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/abril/abril-punto-masajes-argentina-4.webp",
     destacada: true,
     posicion: 7,
     tag: "",
@@ -162,7 +162,7 @@ const productos = [
     img2: "./img/masajistas/romina/romina-punto-masajes-argentina-2-198x300.webp",
     img3: "",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 8,
     tag: "",
     activado: true,
@@ -204,7 +204,7 @@ const productos = [
     img2: "./img/masajistas/ale/alejandra-punto-masajes-argentina-2-1-198x300.webp",
     img3: "./img/masajistas/ale/alejandra-punto-masajes-argentina-3-1-198x300.webp",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 10,
     tag: "",
     activado: true,
@@ -212,7 +212,7 @@ const productos = [
   {
     id: 11,
     nombre: "LUDMILA",
-    zona: "RECOLETA",
+    zona: "MICROCENTRO",
     horario: "Lunes a viernes 11 a 19",
     pago: "Efectivo y Mercadopago",
     titular: "Masajista profesional",
@@ -246,7 +246,7 @@ const productos = [
     img2: "./img/masajistas/eliana/eliana-punto-masajes-argentina-198x300.webp",
     img3: "./img/masajistas/eliana/eliana-punto-masajes-argentina-2-198x300.webp",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 12,
     tag: "",
     activado: true,
@@ -267,7 +267,7 @@ const productos = [
     img2: "./img/masajistas/gabriela/gabriela-punto-masajes-argentina-2-198x300.webp",
     img3: "./img/masajistas/gabriela/gabriela-punto-masajes-argentina-3-198x300.webp",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 13,
     tag: "",
     activado: true,
@@ -288,7 +288,7 @@ const productos = [
     img2: "./img/masajistas/kalu/tete-punto-masajes-argentina-198x300.webp",
     img3: "./img/masajistas/kalu/tete-punto-masajes-argentina-2-198x300.webp",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 14,
     tag: "",
     activado: true,
@@ -323,9 +323,9 @@ const productos = [
     titular: "Masajes relajantes",
     descripcion:
       "Masajes relajantes descontracturantes de los pies a la cervical.",
-    telefono: "11 6127-0850",
+    telefono: "11 3386-9889",
     btWhatsapp:
-      "https://api.whatsapp.com/send?phone=541161270850&text=Hola%20ROSITA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
+      "https://api.whatsapp.com/send?phone=541133869889&text=Hola%20ROSITA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
     img: "./img/masajistas/rosita/rosita-punto-masajes-argentina-2.webp",
     img2: "./img/masajistas/rosita/rosita-punto-masajes-argentina.webp",
     img3: "",
@@ -372,7 +372,7 @@ const productos = [
     img2: "./img/masajistas/violeta/violeta-punto-masajes-argentina-2-198x300.webp",
     img3: "",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 18,
     tag: "",
     activado: true,
@@ -389,10 +389,10 @@ const productos = [
     telefono: "11 3695-4892",
     btWhatsapp:
       "https://api.whatsapp.com/send?phone=541136954892&text=Hola%20ALISON,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
-    img: "./img/masajistas/alison/alison-punto-masajes-argentina-3-1-198x300.webp",
-    img2: "./img/masajistas/alison/alison-punto-masajes-argentina-1-198x300.webp",
-    img3: "./img/masajistas/alison/alison-punto-masajes-argentina-2-1-198x300.webp",
-    img4: "./img/masajistas/alison/alison-punto-masajes-argentina-5-198x300.webp",
+    img: "./img/masajistas/alison/alison-punto-masajes-argentina-4.webp",
+    img2: "./img/masajistas/alison/alison-punto-masajes-argentina.webp",
+    img3: "./img/masajistas/alison/alison-punto-masajes-argentina-2.webp",
+    img4: "./img/masajistas/alison/alison-punto-masajes-argentina-3.webp",
     destacada: true,
     posicion: 19,
     tag: "",
@@ -410,10 +410,10 @@ const productos = [
     telefono: "11 5143-6642",
     btWhatsapp:
       "https://api.whatsapp.com/send?phone=541151436642&text=Hola%20LARA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
-    img: "./img/masajistas/lara/lara-punto-masajes-argentina-3-1-198x300.webp",
-    img2: "./img/masajistas/lara/lara-punto-masajes-argentina-1-1-198x300.webp",
-    img3: "",
-    img4: "",
+    img: "./img/masajistas/lara/lara-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/lara/lara-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/lara/lara-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/lara/lara-punto-masajes-argentina-4.webp",
     destacada: true,
     posicion: 20,
     tag: "",
@@ -498,10 +498,10 @@ const productos = [
     img2: "./img/masajistas/sofia/punto-masajes-sofia-198x300.webp",
     img3: "./img/masajistas/sofia/punto-masajes-sofia-3-198x300.webp",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 24,
     tag: "",
-    activado: true,
+    activado: false,
   },
   {
     id: 25,
@@ -519,7 +519,7 @@ const productos = [
     img2: "./img/masajistas/paula/ana-laura-punto-masajes-argentina-2-198x300.webp",
     img3: "",
     img4: "",
-    destacada: true,
+    destacada: false,
     posicion: 25,
     tag: "",
     activado: true,
@@ -579,13 +579,13 @@ const productos = [
     telefono: "11 4946-1581",
     btWhatsapp:
       "https://api.whatsapp.com/send?phone=541149461581&text=Hola%20MARIELA,%20te%20vi%20en%20Punto%20Masajes.%20Contame%20de%20tu%20servicio.",
-    img: "./img/masajistas/mariela/mariela-punto-masajes-argentina-198x300.webp",
-    img2: "./img/masajistas/mariela/mariela-punto-masajes-argentina-2-198x300.webp",
+    img: "./img/masajistas/mariela/mariela-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/mariela/mariela-punto-masajes-argentina-198x300.webp",
     img3: "./img/masajistas/mariela/mariela-punto-masajes-argentina-3-198x300.webp",
     img4: "./img/masajistas/mariela/mariela-punto-masajes-argentina-4-198x300.webp",
-    destacada: false,
+    destacada: true,
     posicion: "",
-    tag: "",
+    tag: "pago",
     activado: true,
   },
   {
@@ -753,7 +753,7 @@ const productos = [
     destacada: false,
     posicion: "",
     tag: "",
-    activado: true,
+    activado: false,
   },
   {
     id: 37,
@@ -942,7 +942,7 @@ const productos = [
     destacada: false,
     posicion: "",
     tag: "",
-    activado: true,
+    activado: false,
   },
   {
     id: 46,
@@ -1199,15 +1199,15 @@ const productos = [
   {
     id: 58,
     nombre: "PAOLA",
-    zona: "PARQUE CHACABUCO",
+    zona: "VILLA LURO",
     horario: "Lunes a domingos 10 a 21",
     pago: "Efectivo y Mercadopago",
     titular: "Masajes terapeuticos",
     descripcion:
       "Utilizo diferentes técnicas. Ambiente tranquilo con música relajante. Trabajo sobre camilla o tatami. Buena atención. Servicio de ducha. Con reserva de turnos.",
-    telefono: "11 6892-7019",
+    telefono: "11 3194-7208",
     btWhatsapp:
-      "https://api.whatsapp.com/send?phone=541168927019&text=Hola%20PAOLA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+      "https://api.whatsapp.com/send?phone=541131947208&text=Hola%20PAOLA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
     img: "./img/masajistas/paola/paola-punto-masajes-argentina-198x300.webp",
     img2: "./img/masajistas/paola/paola-punto-masajes-argentina-2-198x300.webp",
     img3: "./img/masajistas/paola/paola-punto-masajes-argentina-3-198x300.webp",
@@ -1320,7 +1320,7 @@ const productos = [
     destacada: false,
     posicion: "",
     tag: "",
-    activado: true,
+    activado: false,
   },
   {
     id: 64,
@@ -1401,9 +1401,9 @@ const productos = [
     img2: "./img/masajistas/ariana/ariana-punto-masajes-argentina-2.webp",
     img3: "./img/masajistas/ariana/ariana-punto-masajes-argentina-3.webp",
     img4: "./img/masajistas/ariana/ariana-punto-masajes-argentina-4.webp",
-    destacada: false,
+    destacada: true,
     posicion: "",
-    tag: "",
+    tag: "pago",
     activado: true,
   },
   {
@@ -1548,7 +1548,7 @@ const productos = [
     img2: "./img/masajistas/ruby/ruby-punto-masajes-argentina-3.webp",
     img3: "./img/masajistas/ruby/ruby-punto-masajes-argentina-4.webp",
     img4: "./img/masajistas/ruby/ruby-punto-masajes-argentina.webp",
-    destacada: true,
+    destacada: false,
     posicion: "",
     tag: "",
     activado: true,
@@ -1561,7 +1561,7 @@ const productos = [
     pago: "Efectivo y Mercadopago",
     titular: "Masajista terapéutica",
     descripcion:
-      "te ofrezco una sesión de masajes con distintas técnicas, tailandés, californiano, descontracturantes, relajantes , sensitivos, energizantes , desde los pies hasta la zona cervical.",
+      "Te ofrezco una sesión de masajes con distintas técnicas, tailandés, californiano, descontracturantes, relajantes , sensitivos, energizantes , desde los pies hasta la zona cervical.",
     telefono: "11 6364-2482",
     btWhatsapp:
       "https://api.whatsapp.com/send?phone=541163642482&text=Hola%20MAITE%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
@@ -1574,6 +1574,548 @@ const productos = [
     tag: "",
     activado: true,
   },
+  {
+    id: 76,
+    nombre: "ALDY",
+    zona: "TRIBUNALES",
+    horario: "Lunes a viernes 13 a 19",
+    pago: "Solo Efectivo",
+    titular: "Masajes 100% reales",
+    descripcion:
+      "Masajista profesional, deportivos, descontracturantes, relajantes, sensitivos-sedativos, anti-estres, reflexologia mano, pies y rostro, piedras calientes, californianos.",
+    telefono: "11 6043-8640",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541160438640&text=Hola%20ALDY%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/aldy/aldy-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/aldy/aldy-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/aldy/aldy-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/aldy/aldy-punto-masajes-argentina-4.webp",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 77,
+    nombre: "AMALIA",
+    zona: "MARTINEZ",
+    horario: "Lunes a viernes 10 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes relajantes",
+    descripcion:
+      "Masajes descontracturantes, relajantes, de los pies hasta a la cervical, servicio de ducha, ambiente climatizado.",
+    telefono: "11 2785-0570",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541127850570&text=Hola%20AMALIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/amalia/amalia-punto-masajes-argentina-2.webp",
+    img2: "./img/masajistas/amalia/amalia-punto-masajes-argentina.webp",
+    img3: "./img/masajistas/amalia/amalia-punto-masajes-argentina-3.webp",
+    img4: "",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 78,
+    nombre: "ALMA",
+    zona: "ALMAGRO",
+    horario: "Lunes a sábados 9 a 19",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes profesionales",
+    descripcion: "Servicio de masajes profesional.",
+    telefono: "11 3662-0193",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541136620193&text=Hola%20ALMA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/alma/alma-punto-masajes-argentina-3.webp",
+    img2: "./img/masajistas/alma/alma-punto-masajes-argentina.webp",
+    img3: "./img/masajistas/alma/alma-punto-masajes-argentina-2.webp",
+    img4: "./img/masajistas/alma/alma-punto-masajes-argentina-4.webp",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 79,
+    nombre: "PILAR",
+    zona: "PALERMO",
+    horario: "Lunes a viernes 13 a 18",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajista profesional",
+    descripcion:
+      "Masajes relajantes, descontracturantes en tatami o camilla. La terapia que prefieras...",
+    telefono: "11 3622-8530",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541136228530&text=Hola%20PILAR%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/pilar/pilar-punto-masajes-argentina-3.webp",
+    img2: "./img/masajistas/pilar/pilar-punto-masajes-argentina.webp",
+    img3: "./img/masajistas/pilar/pilar-punto-masajes-argentina-2.webp",
+    img4: "",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 80,
+    nombre: "SOL",
+    zona: "COLEGIALES",
+    horario: "Lunes a sábados 9 a 17",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes terapéuticos",
+    descripcion:
+      "Los masajes son relajantes ayurbeda deportiva sedativo. Trabajamos de pies a cabeza con movimientos circulares muy relajantes o el tipo de masajes te guste.",
+    telefono: "11 6119-6047",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541161196047&text=Hola%20SOL%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/sol-2/sol-punto-masajes-argentina-5.webp",
+    img2: "./img/masajistas/sol-2/sol-punto-masajes-argentina-6.webp",
+    img3: "./img/masajistas/sol-2/sol-punto-masajes-argentina-7.webp",
+    img4: "./img/masajistas/sol-2/sol-punto-masajes-argentina-8.webp",
+    destacada: true,
+    posicion: "",
+    tag: "pago",
+    activado: true,
+  },
+  {
+    id: 81,
+    nombre: "MARIA",
+    zona: "CONGRESO",
+    horario: "Lunes a sábados",
+    pago: "Solo Efectivo",
+    titular: "Masajes",
+    descripcion:
+      "Te ofrezco en un lugar calido y tranquilo. Los masajes que buscas. Relajantes descontracturantes, sensitivos, circulatorios.",
+    telefono: "11 2370-3619",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541123703619&text=Hola%20MARIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/maria-4/maria-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/maria-4/maria-punto-masajes-argentina-2.webp",
+    img3: "",
+    img4: "",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 82,
+    nombre: "MARU",
+    zona: "CONGRESO",
+    horario: "Lunes a sábados 11 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajista profesional",
+    descripcion: "Masajes descontracturante y relajante deportivos sedativos.",
+    telefono: "11 6879-4192",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541168794192&text=Hola%20MARU%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/maru/maru-punto-masajes-argentina-2.webp",
+    img2: "./img/masajistas/maru/maru-punto-masajes-argentina.webp",
+    img3: "./img/masajistas/maru/maru-punto-masajes-argentina-3.webp",
+    img4: "",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 83,
+    nombre: "DENISSE",
+    zona: "CONGRESO",
+    horario: "Lunes a sábados 10 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes terapéuticos",
+    descripcion:
+      "Excelentes masajes descontracturantes, relajantes, reflexología, atención personalizada con la mejor onda y simpatía. Lugar confortable.",
+    telefono: "11 3374-9281",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541133749281&text=Hola%20DENISSE%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/carla/carla-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/carla/carla-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/carla/carla-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/carla/carla-punto-masajes-argentina-4.webp",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 84,
+    nombre: "RITA",
+    zona: "TRIBUNALES",
+    horario: "Lunes a domingos 10 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes terapéuticos",
+    descripcion:
+      "Masaje descontracturante, deportivo, sedativo, sensitivo, drenaje linfático.",
+    telefono: "11 3650-6450",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541136506450&text=Hola%20RITA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/rita/rita-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/rita/rita-punto-masajes-argentina-2.webp",
+    img3: "",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 85,
+    nombre: "LUNA",
+    zona: "CABALLITO",
+    horario: "Lunes a domingos 11 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes descontracturantes",
+    descripcion:
+      "Brindo servicio profesional de masajes, sobre camilla o tatami japonés, servicio de ducha y música funcional.",
+    telefono: "11 2625-1484",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541126251484&text=Hola%20LUNA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/luna/luna-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/luna/luna-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/luna/luna-punto-masajes-argentina-3.webp",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 86,
+    nombre: "JACKELINE",
+    zona: "CABALLITO",
+    horario: "Lunes a domingos 12 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajista profesional",
+    descripcion:
+      "Masajes sensitivos descontracturante  sobre camilla o tatami japonés. Ambiente climatizado y música funcional con servicio de baño.",
+    telefono: "11 5383-7609",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541153837609&text=Hola%20JACKELINE%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/jackeline/jackeline-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/jackeline/jackeline-punto-masajes-argentina-2.webp",
+    img3: "",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 87,
+    nombre: "GIMENA",
+    zona: "MICROCENTRO",
+    horario: "Lunes a sábados 10 a 18",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajista profesional",
+    descripcion:
+      "Masajes descontracturantes, Relajantes, deportivos. Buena atención. Ambiente climatizado. Servicio de duchas.",
+    telefono: "11 5755-2570",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541157552570&text=Hola%20GIMENA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/gimena/gimena-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/gimena/gimena-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/gimena/gimena-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/gimena/gimena-punto-masajes-argentina-4.webp",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 88,
+    nombre: "MIA",
+    zona: "PALERMO",
+    horario: "Lunes a domingos 14 a 21",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes relajantes",
+    descripcion:
+      "Masajes sensitivos en mi gabinete en la mejor zona de Palermo te espero para que sientas el verdadero placer de un excepcional masaje descontracturante, circulatorio, relajante…",
+    telefono: "11 3386-9889",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541133869889&text=Hola%20MIA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/mia/mia-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/mia/mia-punto-masajes-argentina-2.webp",
+    img3: "",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 90,
+    nombre: "BRIGITTE",
+    zona: "PALERMO",
+    horario: "Lunes a domingos 14 a 21",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes relajantes",
+    descripcion:
+      "Masajes sensitivos en mi gabinete en la mejor zona de Palermo te espero para que sientas el verdadero placer de un excepcional masaje descontracturante, circulatorio, relajante…",
+    telefono: "11 3386-9889",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541133869889&text=Hola%20BRIGITTE%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/brigitte/brigitte-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/brigitte/brigitte-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/brigitte/brigitte-punto-masajes-argentina-3.webp",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 91,
+    nombre: "ARACELI",
+    zona: "VILLA DEVOTO",
+    horario: "Lunes a domingos 10 a 19",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masoterapeuta",
+    descripcion:
+      "Soy masoterapeuta y aux.de kinesiología. Realizó masajes relajantes, descontracturante, deportivo, kinesiología, facial, Reflexiólogia y bambuterapia.",
+    telefono: "11 6605-3696",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541166053696&text=Hola%20ARACELI%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/araceli/araceli-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/araceli/araceli-punto-masajes-argentina-2.webp",
+    img3: "",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 92,
+    nombre: "YOANA",
+    zona: "ALMAGRO",
+    horario: "Lunes a sábados 10 a 20",
+    pago: "Solo Efectivo",
+    titular: "Masajista terapéutica",
+    descripcion: "Masaje descontraurantes sensitivos.",
+    telefono: "11 6886-8420",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541168868420&text=Hola%20YOANA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/yoana/yoana-punto-masajes-argentina.webp",
+    img2: "",
+    img3: "",
+    img4: "",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 93,
+    nombre: "LILI",
+    zona: "CONGRESO",
+    horario: "Full time",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes sensitivos",
+    descripcion:
+      "Me manejo en hoteles y domicilio zona Congreso. También hoteles de turistas. Masajes profesionales, deportivos, terapéutico...",
+    telefono: "11 2179-1192",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541121791192&text=Hola%20LILI%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/lili/lili-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/lili/lili-punto-masajes-argentina.webp-2",
+    img3: "./img/masajistas/lili/lili-punto-masajes-argentina.webp-3",
+    img4: "./img/masajistas/lili/lili-punto-masajes-argentina.webp-4",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 94,
+    nombre: "MEGAN",
+    zona: "RECOLETA",
+    horario: "Lunes a sábados 10 a 24",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes sensitivos",
+    descripcion:
+      "Realizo masajes descontracturantes relajantes sensitivos, gabinete con ducha disponible en recoleta.",
+    telefono: "11 5989-3943",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541159893943&text=Hola%20MEGAN%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/megan/megan-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/megan/megan-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/megan/megan-punto-masajes-argentina-3.webp",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 95,
+    nombre: "ABRIL",
+    zona: "MICROCENTRO",
+    horario: "Lunes a viernes 12 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajista profesional",
+    descripcion: "Servicio a hombres, Mujeres, Parejas, Domicilios y Hoteles.",
+    telefono: "11 2649-0368",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541126490368&text=Hola%20ABRIL%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/abril-2/abril-punto-masajes-argentina.webp",
+    img2: "",
+    img3: "",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 96,
+    nombre: "ANDREA",
+    zona: "FLORES",
+    horario: "Lunes a sábados 10 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes de excelencia",
+    descripcion:
+      "Masajes relajantes, descontracturantes, deportivo, desbloqueo cervical y lumbar. Técnicas orientales: Tai Massage, ayurveda. Servicio de ducha disponible.",
+    telefono: "11 4069-5171",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541140695171&text=Hola%20ANDREA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/andrea/andrea-punto-masajes-argentina-5.webp",
+    img2: "./img/masajistas/andrea/andrea-punto-masajes-argentina.webp",
+    img3: "./img/masajistas/andrea/andrea-punto-masajes-argentina-2.webp",
+    img4: "./img/masajistas/andrea/andrea-punto-masajes-argentina-3.webp",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 97,
+    nombre: "SOLEDAD",
+    zona: "RECOLETA",
+    horario: "Lunes a sábados 10 a 18",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes profesionales",
+    descripcion:
+      "Ofrezco servicio de masajes profesionales y descontracturantes en mi gabinete ubicado en recoleta.",
+    telefono: "11 5862-3364",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541158623364&text=Hola%20SOLEDAD%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/soledad-2/soledad-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/soledad-2/soledad-punto-masajes-argentina-2.webp",
+    img3: "",
+    img4: "",
+    destacada: false,
+    posicion: "",
+    tag: "",
+    activado: false,
+  },
+  {
+    id: 98,
+    nombre: "EMILY",
+    zona: "TIGRE",
+    horario: "Lunes a sábados 9 a 21",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes de excelencia",
+    descripcion:
+      "Masajista Profesional Matriculada y Terapeuta Thai. Masajes relajantes, descontracturantes, deportivo, desbloqueo cervical y lumbar. Técnicas orientales: Tai Massage, ayurveda.",
+    telefono: "11 5046-9837",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541150469837&text=Hola%20EMILY%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/emily/emily-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/emily/emily-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/emily/emily-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/emily/emily-punto-masajes-argentina-4.webp",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 99,
+    nombre: "PAMELA",
+    zona: "VILLA LURO",
+    horario: "Lunes a viernes 12 a 21",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajes relajantes",
+    descripcion:
+      "Masajes relajantes, descontracturantes, deportivo, desbloqueo cervical y lumbar,  sensoriales y californianos. Técnicas orientales: Tai Massage, ayurveda.",
+    telefono: "11 4069-5171",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541140695171&text=Hola%20PAMELA%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/pamela/pamela-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/pamela/pamela-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/pamela/pamela-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/pamela/pamela-punto-masajes-argentina-4.webp",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 100,
+    nombre: "MARIEL",
+    zona: "MICROCENTRO",
+    horario: "Lunes a viernes 12 a 19",
+    pago: "Solo Efectivo",
+    titular: "Masajes relajantes",
+    descripcion:
+      "Masajes relajantes, sensitivos, descontracturantes. Solicita tu turno.",
+    telefono: "11 5010-5222",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541150105222&text=Hola%20MARIEL%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/mariel-2/mariel-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/mariel-2/mariel-punto-masajes-argentina-2.webp",
+    img3: "",
+    img4: "",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 101,
+    nombre: "VICKY",
+    zona: "TRIBUNALES",
+    horario: "Lunes a viernes 14 a 20",
+    pago: "Efectivo y Mercadopago",
+    titular: "Fisio y masoterapeuta profesional",
+    descripcion:
+      "Realizo masajes profesionales, descontracturantes, relajantes y sensitivos en mi gabinete totalmente equipado, confortable e impecable.",
+    telefono: "11 2319-7014",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541123197014&text=Hola%20VICKY%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/vicky/vicky-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/vicky/vicky-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/vicky/vicky-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/vicky/vicky-punto-masajes-argentina-4.webp",
+    destacada: true,
+    posicion: "",
+    tag: "",
+    activado: true,
+  },
+  {
+    id: 102,
+    nombre: "AILEN",
+    zona: "CONGRESO",
+    horario: "Lunes a viernes 11 a 19",
+    pago: "Efectivo y Mercadopago",
+    titular: "Masajista profesional",
+    descripcion:
+      "Masajes relajantes, descontracturantes, deportivos desde los pies hasta la cervical.",
+    telefono: "11 6430-2280",
+    btWhatsapp:
+      "https://api.whatsapp.com/send?phone=541164302280&text=Hola%20AILEN%20te%20vi%20en%20Punto%20Masajes.%20Quiero%20saber%20m%C3%A1s%20de%20tu%20servicio.",
+    img: "./img/masajistas/ailen/ailen-punto-masajes-argentina.webp",
+    img2: "./img/masajistas/ailen/ailen-punto-masajes-argentina-2.webp",
+    img3: "./img/masajistas/ailen/ailen-punto-masajes-argentina-3.webp",
+    img4: "./img/masajistas/ailen/ailen-punto-masajes-argentina-4.webp",
+    destacada: true,
+    posicion: "",
+    tag: "pago",
+    activado: true,
+  },
 ];
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -1581,13 +2123,13 @@ const productos = [
 let destacadas = document.getElementById("masDestacadas");
 
 productos.forEach((ele) => {
-  if (ele.destacada === true) {
+  if (ele.destacada === true && ele.activado === true) {
     let card = document.createElement("div");
     card.innerHTML = `
         <div class="contenedor" id=${ele.id}>
             <div class="gridImgDestacada">
                 <div>
-                    <img src=${ele.img}>
+                    <img src=${ele.img} alt="${ele.nombre} ${ele.titular} masajista en ${ele.zona}">
                 </div>
             </div>
             <div class="gridInfoDestacada">
@@ -1601,11 +2143,11 @@ productos.forEach((ele) => {
             </div>
             <div class="gridWA">
                 <a target="_blank" href="${ele.btWhatsapp}" rel="nofollow">
-                    <button class="btnWA"><img src="./img/whatsappx16.png">Whatsapp</button>
-                </a> 
-                <a>               
-                <button class="btnPhotos" onclick = btnPhotos(${ele.id})>Más fotos</button>  
-                </a>   
+                    <button class="btnWA"><img src="./img/whatsappx16.png" alt="Boton-de-WhatsApp">Whatsapp</button>
+                </a>
+                <div>         
+                    <button class="btnPhotos" onclick = btnPhotos(${ele.id})>Ver fotos</button>    
+                </div>
             </div>
         </div>`;
     destacadas.appendChild(card);
@@ -1625,48 +2167,45 @@ function btnPhotos(id) {
                 <img src=${prodFind.img4}>
             </div>
             <div class="content-buttons">
-                <a href="http://127.0.0.1:5501/#${prodFind.id}" id="close-button" onclick="location.reload()">
+                <button id="close-button" onclick=removeBtn()>
                   CERRAR
-                </a>
+                </button>
             </div>
         </div>
     </div>
     `;
   destacadas.appendChild(card);
-
-  let closeButton = document.getElementById("close-button");
-  closeButton.addEventListener("click", function (e) {
-    e.preventDefault();
-    document.getElementById("window-notice").style.display = "none";
-  });
+}
+function removeBtn() {
+  let ventana = document.getElementById("window-notice");
+  ventana.remove();
 }
 
 let gratis = document.getElementById("masGeneral");
 
 let ordenar = productos.sort(() => (Math.random() > 0.5 ? 1 : -1));
 productos.forEach((el) => {
-  if (el.destacada === false) {
+  if (el.destacada === false && el.activado === true) {
     let card = document.createElement("div");
     card.innerHTML = `
-    <div class="contenedor2">
-      <div class="gridImgDestacada">
-      </div>
-      <div class="gridInfoDestacada">
+    <div class="contenedorFree">
+      <div class="gridInfoDestacadaFree">
         <h3>${el.nombre} <span class="txtGreen">${el.zona}</span></h3>
         <div class="masContacto">
-          <p>Teléfono: ${el.telefono}</p> 
+          <p>Teléfono: ${el.telefono}</p>
           <p>${el.horario}</p>
         </div>
-        <h4><span class="txtGreen">${el.titular}</span></h4> 
+        <h4><span class="txtGreen">${el.titular}</span></h4>
         <p class="descripcion">${el.descripcion}<p>
       </div>
       <div class="gridWA">
         <a target="_blank" href="${el.btWhatsapp}" rel="nofollow">
-          <button class="btnWA"><img src="./img/whatsappx16.png">Whatsapp</button>
+          <button class="btnWA"><img src="./img/whatsappx16.png" alt="Boton de WhatsApp">Whatsapp</button>
         </a>
-        <a>               
-          <button class="btnPhotos" onclick = btnPhotos(${el.id})>Más fotos</button>  
-        </a> 
+        <div>
+          <button class="btnPhotos" onclick = btnPhotos(${el.id})>Ver fotos</button>
+        </div>
+
       </div>
     </div>`;
     gratis.appendChild(card);
