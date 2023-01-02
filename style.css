@@ -221,7 +221,7 @@ footer p {
   background-color: white;
 }
 
-.gridInfoDestacadaFree {
+.gridInfogratisFree {
   height: 146px;
   margin: 15px 15px 0px 3%;
 }
@@ -308,7 +308,8 @@ footer p {
     height: 180px;
   }
 
-  .gridInfoDestacadaFree {
+  .gridInfogratisFree {
+    margin: 5px 5px 0px 3%;
     height: 132px;
   }
 }
@@ -378,7 +379,7 @@ footer p {
     border-radius: 8px;
   }
 
-  .gridInfoDestacadaFree {
+  .gridInfogratisFree {
     height: 122px;
     margin: 5px 5px 0px 3%;
   }
